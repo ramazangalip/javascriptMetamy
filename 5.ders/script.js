@@ -148,7 +148,7 @@
 // }
 
 // this kullanımı
-console.log(this)
+// console.log(this)
 // Window.alert("bu bir uyarıdır")
 
 // const person = {
